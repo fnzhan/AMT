@@ -1,4 +1,4 @@
-# AMT
+# Amazon Mechanical Turk
 
 ## User Study
 Copy the code in survey.html into the [AMT project](https://requester.mturk.com/create/projects).
